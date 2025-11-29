@@ -1,1 +1,2 @@
 file2
+new changes to file2 from dev-b
